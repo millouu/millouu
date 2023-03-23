@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millouu
 - 👀 I’m interested in Coding and Cooking
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web Development Projects
 
 <!---
