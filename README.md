@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @millouu
-- 👀 I’m interested in Coding and Cooking
-- 🌱 I’m currently building small and fun projects using Vanilla Javascript
-- 🚀 I recently completed a summer internship at SLB Pune
-- 💞️ I’m looking to collaborate on Web Development Projects and Design Projects
+- 👀 I like solving puzzles
 
 <!---
 millouu/millouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
